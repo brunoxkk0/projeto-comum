@@ -5,7 +5,7 @@ Neste primeiro momento, iremos introduzi-lo no mundo de projetos, apresentando c
 
 ### CONCEITOS
 
-O projeto de software é basicamente todo o conjunto de ações que são realizadas ao desenvolver algum software seja ele de qualquer tipo como uma aplicação para internet ou para dispositivos móveis, programa para dispositivos embarcados, dentre diversos outros tipos. Neste projeto, são estabelecidos vários documentos, onde contém as etapas de desenvolvimento de projeto, regras, coleta de requisitos do cliente, tudo de forma documentada para que o projeto tenha o resultado esperado. Todo projeto possui um começo, meio e fim.
+O projeto de software é basicamente todo o conjunto de ações que são realizadas ao desenvolver algum software seja ele de qualquer tipo, como uma aplicação para internet ou para dispositivos móveis, programa para dispositivos embarcados, dentre diversos outros tipos. Neste projeto, são estabelecidos vários documentos, onde contém as etapas de desenvolvimento de projeto, regras, coleta de requisitos do cliente, tudo de forma documentada para que o projeto tenha o resultado esperado. Todo projeto possui um começo, meio e fim.
 
 Há uma importante definição sobre Projeto, para o PMI (Project Management Institute), podemos definir projetos como:
 ```
