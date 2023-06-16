@@ -117,6 +117,10 @@ ul {
     list-style: none;
 }
 
+.align-center{
+    align-content: center;
+}
+
 ul li::before {
     content: "\2022";
     color: var(--page-highlight);;
