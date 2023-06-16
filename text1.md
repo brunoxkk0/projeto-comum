@@ -71,8 +71,15 @@ Para o desenvolvimento de um software temos algumas fases do projeto, sendo:
  * Implantação
  * Manutenção
 
-Para darmos o primeiro passo para desenvolver um software, temos que definir todas as funcionalidades, coletando o máximo de detalhes e todas as restrições do software que será desenvolvido. Assim que tivermos todas os requisitos do sotfware, será realizada uma analise sistemática para o desenvolvimento, operação e manutenção, tendo todas as atividades realizas para o conhecimento do cliente, onde será discutida e aprovada pelo cliente.
-A partir de todo processo anterior detalhado, é hora de colocar a mão na massa e implementar esse projeto. O desenvolvedor irá escrever o código fonte do software seguinto todos os requisitos pré definidos, usando as boas práticas de programação.
+Para darmos o primeiro passo para desenvolver um software, temos que definir todas as funcionalidades, coletando o máximo de detalhes e todas as restrições do software que será desenvolvido. Assim que tivermos todas os requisitos do sotfware, será realizada uma analise sistemática para o desenvolvimento, operação e manutenção, tendo todas as atividades realizadas para o conhecimento do cliente, onde será discutida e aprovada pelo cliente.
+A partir de todo processo anterior detalhado, é hora de colocar a mão na massa e implementar esse projeto. O desenvolvedor irá escrever o código fonte do software seguindo todos os requisitos pré definidos, usando as boas práticas de programação.
 Para garantir a qualidade do software, temos o processo dos testes, que nada mais é que testar todas as funcionalidades implementadas pelos desenvolvedores, apontando as correções que devem ser realizadas, antes de serem publicadas. 
-Então, assim que concluirmos toda implementação, na sequencia iremos implantar esse software, essa etapa o softaware será instalado em ambiente de produção, sendo necessário garantir que todas configurações estejam corretas e que o software esteja funcionando de acordo com todas a especficação acordada inicialmente com seu cliente.
+Então, assim que concluirmos toda implementação, na sequencia iremos implantar esse software, essa etapa o softaware será instalado em ambiente de produção, sendo necessário garantir que todas configurações estejam corretas e que o software esteja funcionando de acordo com todas a especficações acordadas inicialmente com seu cliente. Se faz importante que seja realizado essa implantação por profissionais capacitados, garantindo que ocorra todo processo corretamente. E após concluirmos a implantação do software, o acompanhamento juntamente ao cliente é super importante, para garantir que o software esteja funcionando corretamente.
+E não acaba por aqui, a etapa de manutenção será todas as correções e melhorias no software apontadas pelo cliente, se adequando as necessidades do cliente e mantendo atualizado no mercado. Os tipos de manutenções podem se:
+* Corretiva: realizada para corrigir problemas identificados no software; 
+* Preventiva: realizada para evitar que problemas ocorram no futuro;
+* Evolutiva: realizada para adicionar novas funcionalidades ao software.
+Lembrando que a etapa de manutenção é contínua no software e deve ser reaizada em todo ciclo de vida do produto.
+ 
+
 
