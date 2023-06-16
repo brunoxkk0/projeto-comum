@@ -72,4 +72,5 @@ Para o desenvolvimento de um software temos algumas fases do projeto, sendo:
  * Manutenção
 
 Para darmos o primeiro passo para desenvolver um software, temos que definir todas as funcionalidades, coletando o máximo de detalhes e todas as restrições do software que será desenvolvido. Assim que tivermos todas os requisitos do sotfware, será realizada uma analise sistemática para esse desenvolvimento, operação e manutenção, tendo todas as atividades realizas para o conhecimento do cliente, onde será discutida e aprovada pelo cliente.
+A partir de todo processo anterior detalhado, é hora de colocar a mão na massa e implementar esse projeto. O desenvolvedor irá escrever o código fonte do software seguinto todos os requisitos pré definidos, usando as boas práticas de programação.
 
