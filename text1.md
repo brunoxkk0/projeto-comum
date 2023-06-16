@@ -60,7 +60,7 @@ Então, chega a fase de encerramento do projeto, onde é lançada a versão fina
 
 Isso não quer dizer necessariamente que o projeto será “finalizado”, pois após esse ciclo de vida, existem casos de  projetos que entram em fase de “Atualizações e Manutenção de Sistemas”, como uma espécie de suporte ao cliente, garantindo a eficácia do produto por um período após o desenvolvimento. 
  
-### FASES DO PROJETO
+### PROCESSO DO SOFTWARE
 
 Para o desenvolvimento de um software temos algumas fases do projeto, sendo:
 
@@ -71,6 +71,5 @@ Para o desenvolvimento de um software temos algumas fases do projeto, sendo:
  * Implantação
  * Manutenção
 
-A fase de especificação de requisitos é extremamente importante, pois será documentado todas as funcionalidades que o software deve entregar para o usuário final, sendo necessário ser bem detalhada.
+Para darmos o primeiro passo para desenvolver um software, temos que definir todas as funcionalidades, coletando o máximo de detalhes e todas as restrições do software que será desenvolvido. Assim que tivermos todas os requisitos do sotfware, será realizada uma analise sistemática para esse desenvolvimento, operação e manutenção, tendo todas as atividades realizas para o conhecimento do cliente, onde será discutida e aprovada pelo cliente.
 
-----
