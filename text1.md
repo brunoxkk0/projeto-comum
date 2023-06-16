@@ -79,6 +79,7 @@ E não acaba por aqui, a etapa de manutenção será todas as correções e melh
 * Corretiva: realizada para corrigir problemas identificados no software; 
 * Preventiva: realizada para evitar que problemas ocorram no futuro;
 * Evolutiva: realizada para adicionar novas funcionalidades ao software.
+
 Lembrando que a etapa de manutenção é contínua no software e deve ser reaizada em todo ciclo de vida do produto.
  
 
