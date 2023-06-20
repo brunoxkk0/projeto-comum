@@ -7,6 +7,9 @@ Seu objetivo inicial era agilizar o desenvolvimento de softwares, mas esses mét
 
 ## E quais as diferenças entre a gestão ágil e tradicional?
 
+O que conhecemos como metodologia tradicional, ou metodologia cascata, é aquela sequência predefinida de etapas, como análise de requisitos, desenvolvimento, testes, produção e manutenção. Nessa abordagem, os projetos são bastante demorados, e o princípio é prever quais serão os resultados na entrega final.Já na metodologia ágil, o foco é adaptar ao invés de planejar.
+Por isso, os projetos são divididos em pequenas entregas denominada iterações e cada interação é um “miniprojeto”, ou seja, inclui todas as etapas citadas em um ciclo rápido e eficiente, que gera uma entrega parcial.
+
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/337f50e5-5975-4eb2-9f14-8df016004138)
 
