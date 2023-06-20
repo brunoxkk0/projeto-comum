@@ -11,7 +11,7 @@ Equipes de gerenciamento de projetos ou organizações desordenadas criam um imp
 Isto é simplesmente porque a estrutura organizacional tem influência sobre a autoridade do gerente do projeto, afetando assim a forma como os projetos são executados.
 É evidente que as equipes de gerenciamento de projetos muitas vezes são destruturadas e não têm orientação. Uma equipe orientada conduz a projetos bem-sucedidos.
 
-## Vamos divir em 3 grupos os tipos, porem existem outros modos de realizar esta divisão.
+## Existem diversos formatos de estrutura organizacional, neste artigo vamos citar 3 formatos.
 
 ### Estrutura Organizacional Funcional
 Em uma estrutura organizacional funcional, encontrará os componentes de um sistema hierárquico em que as decisões direcionadas pela autoridade, no orçamento, no cronograma e no equipamento são da responsabilidade do gerente funcional que possui um nível significativo de experiência no mesmo campo.
