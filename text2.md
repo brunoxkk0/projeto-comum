@@ -37,7 +37,7 @@ Embora não exista um processo de software ideal, existe espaço para o aprimora
 
 Bom agora vamos falará de forma mais detalhada sobre o PMBOK.
 
-### Conceito
+### PMBOK
 Basicamente é um guia prático que ensina boas práticas, diretrizes e definições relacionadas a gestão de projetos.
 
 Seu propósito é clarear as ideias, gastos, qualidade do projeto, e outras competências que precisa ter. Basicamente é um conjunto de conhecimentos para gerenciamento de um projeto.
