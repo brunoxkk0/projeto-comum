@@ -3,6 +3,7 @@ Aula 2( PMBOK)
 https://blog.grancursosonline.com.br/processo-de-software-engenharia-de-software/
 https://www.devmedia.com.br/processos-de-software/21977
 https://www.totvs.com/blog/negocios/pmbok/#:~:text=O%20PMBOK%20é%20um%20guia,dentro%20de%20um%20mesmo%20projeto.
+https://robsoncamargo.com.br/blog/PMBOK
 
 Processos de Software
 Existem diferentes maneiras de organizarmos as atividades que juntas levam a construção de software. Assim, é possível montar diferentes processos de software. Apesar disso, Sommerville aponta que qualquer que seja esse processo, ele deve incluir quatro atividades fundamentais.
@@ -20,6 +21,7 @@ Especificação: define a funcionalidade do software e as restrições sobre sua
 Projeto e implementação: o software que atenda a especificação deve ser produzido.
 Validação de software: o software deve ser validado para garantir que ela faça o que o cliente deseja.
 Evolução: o software deve evoluir para atender aos novos requisitos que naturalmente surgirão.
+Embora não exista um processo de software ideal, existe espaço para o aprimoramento (SOMMERVILE, 2007). Os processos podem incluir técnicas obsoletas ou não tirar vantagem das melhores práticas, porém existem processos customizáveis que permitem aliar a boa prática de desenvolvimento, sustentada por um grande arcabouço de métodos que permitem desenvolver software de qualidade em tempo hábil. 
 
 Bom agora vamos falará de forma mais detalhada sobre o PMBOK.
 
@@ -34,3 +36,18 @@ Etapa 1- grupo de processos iniciais, grupo de processos de planeamentos.
 Etapa 2- grupo de processo de execução.
 Etapa 3-grupo de processos de monitoramento de controle.
 Etapa 4-grupo de processo de encerramento.
+
+Os principais objetivos do PMI são:
+- Formular padrões profissionais de gestão de projetos;
+
+- Gerar conhecimento por intermédio da investigação;
+
+- Promover a gestão de projetos como profissão através de seus programas de certificação.
+
+Só para relembrar, a Metodologia Ágil surgiu em 2001, quando um grupo de programadores lançou o Manifesto Ágil, pregando uma metodologia que tem como objetivo satisfazer os clientes entregando com rapidez e com maior frequência versões do software conforme as necessidades.
+
+Qual a influência do PMP® e PMO nos projetos?
+Existe uma maneira de você se tornar um especialista em gestão de projetos reconhecido pelo PMI. Para isso você deve obter a certificação PMP®, que o habilitará a ser um Gerente de Projetos reconhecido internacionalmente por utilizar as melhores práticas do PMBOK®.
+Onde aplicar o PMBOK®?
+As melhores práticas de gerenciamento de projetos descritas no PMBOK® podem ser aplicadas a todos os tipos de projetos, independentemente do nicho, da dimensão, do pessoal envolvido, dos prazos e orçamentos.
+Uma vez que um Profissional se torna PMP, ele adquire o hábito de trabalhar de forma mais organizada, tanto no cascata/preditivo, quanto no ágil.
