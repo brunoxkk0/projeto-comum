@@ -131,6 +131,11 @@ ul li::before {
     margin-left: -1em;
 }
 
+ol li::marker {
+    color: var(--page-highlight);
+}
+
+
 .p{
     padding: .5rem;
 }
