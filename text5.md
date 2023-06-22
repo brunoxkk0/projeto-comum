@@ -55,5 +55,14 @@ Isso facilita o trabalho e o planejamento das equipes, pois esses quadros são a
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/f4bebff6-cdaf-42ba-959b-789004513a39)
 
+### CANVAS 
+
+Project Model Canvas é uma metodologia de gestão de projetos que consiste em agrupar e relacionar as diversas áreas de um projeto de forma visual, utilizando um quadro e post-its.
+
+O PM Canvas consiste em um conjunto de 13 blocos para definir o projeto. Cada bloco do Canvas representa uma área do projeto, e esses blocos estão diretamente relacionados aos blocos vizinhos, veja a representação da imagem abaixo:
+
+![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/0430bf34-2970-4056-b4da-1530157d2148)
+
+
 
 
