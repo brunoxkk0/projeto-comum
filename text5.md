@@ -47,4 +47,13 @@ Finalmente, faz-se uma Sprint Retrospective e a equipe parte para o planejamento
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/d48c16df-dd3e-4ec0-994a-980a95d186bb)
 
+### KANBAN
+
+O método Kanban é um dos mais conhecidos quando o assunto é gerenciamento de tarefas em uma organização. Basicamente ele permite organizar o fluxo dos processos por meio de quadros e cartões, sendo facilmente visualizado e compreendido.
+
+Isso facilita o trabalho e o planejamento das equipes, pois esses quadros são apresentados e divididos por meio de colunas, mostrando tarefas “pendentes”, “em andamento” e “concluídas”.
+
+![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/f4bebff6-cdaf-42ba-959b-789004513a39)
+
+
 
