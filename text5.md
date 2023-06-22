@@ -15,3 +15,5 @@ Para ficar claro as distinções, a imagem abaixo mostra as principais caracter�
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/337f50e5-5975-4eb2-9f14-8df016004138)
 
+## E a pergunta que não quer calar: Como colocar em prática a Gestão Ágil?
+
