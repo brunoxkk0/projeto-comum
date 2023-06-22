@@ -15,5 +15,15 @@ Para ficar claro as distinções, a imagem abaixo mostra as principais caracter�
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/337f50e5-5975-4eb2-9f14-8df016004138)
 
+Os métodos de de gestão ágil são guiados pelo Manifesto para Desenvolvimento Ágil de Software, um compilado de valores e princípios que direcionam a gestão ágil. O Manifesto Ágil foi criado em 2001,  a partir da análise da gestão de projetos bem-sucedidos.
+
+# E quais são esses valores e principios?
+
+Os valores são baseados em quatro, sendo eles:
+
+![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/a890b539-618b-47d4-b18c-b9497bcdd34b)
+
+
 ## E a pergunta que não quer calar: Como colocar em prática a Gestão Ágil?
 
+Para 
