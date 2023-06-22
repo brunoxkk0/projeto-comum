@@ -30,4 +30,9 @@ E os princípios são doze, sendo:
 
 ## E a pergunta que não quer calar: Como colocar em prática a Gestão Ágil?
 
-Para 
+Para colocar em prática, é necessário compreender as principais metodologias que a constituem. Vamos saber um pouco mais sobre cada uma delas?
+
+###SCRUM
+
+
+
