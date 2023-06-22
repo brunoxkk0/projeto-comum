@@ -15,13 +15,48 @@ Para ficar claro as distinções, a imagem abaixo mostra as principais caracter�
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/337f50e5-5975-4eb2-9f14-8df016004138)
 
-Os métodos de de gestão ágil são guiados pelo Manifesto para Desenvolvimento Ágil de Software, um compilado de valores e princípios que direcionam a gestão ágil. O Manifesto Ágil foi criado em 2001,  a partir da análise da gestão de projetos bem-sucedidos.
+Os métodos de gestão ágil são guiados pelo Manifesto para Desenvolvimento Ágil de Software, um compilado de valores e princípios que direcionam a gestão ágil. O Manifesto Ágil foi criado em 2001, a partir da análise da gestão de projetos bem-sucedidos.
 
-# E quais são esses valores e principios?
+# E quais são esses valores e princípios?
 
 Os valores são baseados em quatro, sendo eles:
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/a890b539-618b-47d4-b18c-b9497bcdd34b)
+
+E os princípios são doze, sendo:
+
+1. Nossa maior prioridade é satisfazer o cliente através da entrega
+contínua e adiantada de software com valor agregado.
+2. Mudanças nos requisitos são bem-vindas, mesmo tardiamente
+no desenvolvimento. Processos ágeis tiram vantagem das
+mudanças visando vantagem competitiva para o cliente.
+3. Entregar frequentemente software funcionando, de poucas
+semanas a poucos meses,
+com preferência à menor escala de tempo.
+4. Pessoas de negócio e desenvolvedores devem trabalhar
+diariamente em conjunto por todo o projeto.
+5. Construa projetos em torno de indivíduos motivados. Dê a eles
+o ambiente e o suporte necessário e confie neles para fazer o
+trabalho.
+6. O método mais eficiente e eficaz de transmitir informações
+para e entre uma equipe de desenvolvimento é através de
+conversa face a face.
+7. Software funcionando é a medida primária de progresso.
+8. Os processos ágeis promovem desenvolvimento
+sustentável. Os patrocinadores, desenvolvedores e
+usuários devem ser capazes de manter um ritmo
+constante indefinidamente.
+9. Contínua atenção à excelência técnica e bom design
+aumenta a agilidade.
+10. Simplicidade--a arte de maximizar a quantidade de
+trabalho não realizado--é essencial.
+11. As melhores arquiteturas, requisitos e designs
+emergem de equipes auto-organizáveis.
+12. Em intervalos regulares, a equipe reflete sobre como
+se tornar mais eficaz e então refina e ajusta seu
+comportamento de acordo.
+
+
 
 
 ## E a pergunta que não quer calar: Como colocar em prática a Gestão Ágil?
