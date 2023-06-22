@@ -64,7 +64,7 @@ Também é conhecido como Diagrama de Gantt é uma ferramenta totalmente visual 
 Como fazer um Gráfico de Gantt
 Existem diversas formas de fazer um Gráfico de Gantt para controlar o cronograma de um projeto, você pode usar um ERP com gestão integrada a sua produção para gerá-lo automaticamente, ferramentas online ou até mesmo o próprio Excel.
 
-## Redes Perf
+## Redes Pert
 
 É conhecida como diagrama Pert, é usado para a revisão. é um ferramente de gerenciamento de projetos é usada para analisar cada tarefa envolvida na conclusão.
 A fórmula PERT 
