@@ -63,6 +63,11 @@ O PM Canvas consiste em um conjunto de 13 blocos para definir o projeto. Cada bl
 
 ![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/0430bf34-2970-4056-b4da-1530157d2148)
 
+Com essa relação entre os blocos, fica mais fácil encontrar inconsistências no projeto e identificar os impactos que as alterações em uma área causam nas áreas relacionadas
 
+o planejamento do projeto pode ocorrer com maior participação dos envolvidos. Basta que todos discutam as ideias e coloquem aquilo que foi estabelecido em post-its que serão colados no quadro, das justificativas aos custos.
 
+Além da relação dos blocos com os vizinhos, olhando a imagem é possível identificar cinco colunas nas quais eles estão agrupados que respondem a questões básicas sobre o projeto: “Por quê?”, “O que?”, “Quem?”, “Como?” e “Quando e Quanto?”
+
+# Bom, agora só colocar em Prática :D
 
