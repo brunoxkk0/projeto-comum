@@ -25,6 +25,9 @@ Os valores são baseados em quatro, sendo eles:
 
 E os princípios são doze, sendo:
 
+![image](https://github.com/brunoxkk0/projeto-comum/assets/93231614/f3f67fa0-d5b1-4b55-8771-6abd5101771c)
+
+
 1. Nossa maior prioridade é satisfazer o cliente através da entrega
 contínua e adiantada de software com valor agregado.
 2. Mudanças nos requisitos são bem-vindas, mesmo tardiamente
