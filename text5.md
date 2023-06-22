@@ -32,7 +32,7 @@ E os princípios são doze, sendo:
 
 Para colocar em prática, é necessário compreender as principais metodologias que a constituem. Vamos saber um pouco mais sobre cada uma delas?
 
-###SCRUM
+### SCRUM
 
 
 
