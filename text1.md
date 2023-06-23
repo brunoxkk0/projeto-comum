@@ -1,3 +1,11 @@
+GPS Aula 1 Conceitos de Projeto e de Gestão de Projetos, Características dos Projetos.
+
+https://www.devmedia.com.br/gestao-de-projetos-de-software/9143
+
+https://blog.grancursosonline.com.br/processo-de-software-engenharia-de-software/#:~:text=Processo%20de%20software%20%C3%A9%20definido,montar%20diferentes%20processos%20de%20software
+
+https://www.devmedia.com.br/processos-de-software/21977
+
 # INTRODUÇÃO À DISCIPLINA DE GERENCIAMENTO DE PROJETO DE SOFTWARE
 
 Olá, seja muito bem vindo à nossa plataforma online de estudos voltado a Gerenciamento de Projetos de Software. 
