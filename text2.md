@@ -1,9 +1,10 @@
 GPS
 Aula 2( PMBOK)
-- https://blog.grancursosonline.com.br/processo-de-software-engenharia-de-software/
-- https://www.devmedia.com.br/processos-de-software/21977
-- https://www.totvs.com/blog/negocios/pmbok/#:~:text=O%20PMBOK%20é%20um%20guia,dentro%20de%20um%20mesmo%20projeto.
-- https://robsoncamargo.com.br/blog/PMBOK
+
+https://blog.grancursosonline.com.br/processo-de-software-engenharia-de-software/
+https://www.devmedia.com.br/processos-de-software/21977
+https://www.totvs.com/blog/negocios/pmbok/#:~:text=O%20PMBOK%20é%20um%20guia,dentro%20de%20um%20mesmo%20projeto.
+https://robsoncamargo.com.br/blog/PMBOK
 
 ## Processos de Software
 
