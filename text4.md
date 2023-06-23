@@ -165,7 +165,7 @@ plano de gerenciamento de custos, estimativa de custos, determinação de orçam
   É extremamente importante entender que riscos fazem parte não só de um projeto de software, mas da vida. Risco pode ser 
 entendido como uma incerteza, uma oportunidade, uma ameaça ou um problema.
 
- # Definição de risco: Uma incerteza identificável, mensurável e relevante para o contexto em que ocorre. 
+ Definição de risco: Uma incerteza identificável, mensurável e relevante para o contexto em que ocorre. 
 
    Segundo o PMBOK, o risco do projeto é um evento ou condição incerta que, se ocorrer, provocará um
   efeito positivo ou negativo em um ou mais objetivos do projeto tais como escopo, cronograma, custo e qualidade.
@@ -184,13 +184,13 @@ entendido como uma incerteza, uma oportunidade, uma ameaça ou um problema.
 
 ### Tipos de Risco de Projetos de Software
 
- - #Riscos de Projeto
+ - Riscos de Projeto
     - Impacta no plano do projeto, orçamento, cronograma, pessoal, recursos, interessados, requisitos;
      
- - #Riscos Técnicos
+ - Riscos Técnicos
     - Impacta na qualidade do produto, e identificados em fase de desenvolvimento e manutenção do mesmo;
       
-- #Riscos de Negócio
+- Riscos de Negócio
     - Impacta na viabilidade do produto ser construído, e inclui risco de mercado, estratégico, vendas, gerencial e risco de
       orçamento.
 
@@ -201,13 +201,13 @@ para determinar a probabilidade de um risco.
 
  - #Muito Alto: >= 0,70 - O Risco é eminente de ocorrer; 
 
- - #Alto: >= 0,50 - < 0,70 - O Risco é eminente de ocorrer; 
+ - Alto: >= 0,50 - < 0,70 - O Risco é eminente de ocorrer; 
 
- - #Médio: >= 0,30 - < 0,50 - Provável de ocorrer; 
+ - Médio: >= 0,30 - < 0,50 - Provável de ocorrer; 
 
- - #Baixo: >=  0,10 - < 0,30 - Pequena; 
+ - Baixo: >=  0,10 - < 0,30 - Pequena; 
 
- - #Muito Baixo: < 0,10 - Pequena.
+ - Muito Baixo: < 0,10 - Pequena.
 
 ### Estratégias de Ação
 
@@ -215,11 +215,11 @@ para determinar a probabilidade de um risco.
 projeto de software. 
 	Há 2 tipos de estratégias:
 
-  - #Estratégias Reativas;
+  - Estratégias Reativas;
       - Tem como objetivo “apagar incêndio”. 
       - Entra em ação quando o risco ocorre de fato.
 
-  - #Estratégias Pró-Ativas;
+  - Estratégias Pró-Ativas;
       - Identificar riscos, classificação dos mesmos;
       - Evitar riscos; 
       - Plano de contingência.
