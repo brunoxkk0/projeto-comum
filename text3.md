@@ -1,5 +1,6 @@
 GPS
 Aula 3 Estrutura e Organização dos Processos de Gerenciamento de Projetos
+
 https://www.nutcache.com/pt-br/blog/introducao-a-estrutura-organizacional-de-gerenciamento-de-projetos/
 https://www.euax.com.br/2019/02/gerenciamento-de-cronograma/
 https://www.euax.com.br/2018/12/eap-estrutura-analitica-projeto/
