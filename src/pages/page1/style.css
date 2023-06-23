@@ -105,8 +105,8 @@ body{
     flex-direction: column;
 }
 
-.pmi-logo{
-    width: 16rem;
+.og-img{
+    width: 24rem;
 }
 
 .bold{
@@ -130,3 +130,26 @@ ul li::before {
     width: 1em;
     margin-left: -1em;
 }
+
+ol li::marker {
+    color: var(--page-highlight);
+}
+
+
+.p{
+    padding: .5rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.pmi-logo{
+    width: 16rem;
+}
+
