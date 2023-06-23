@@ -4,8 +4,313 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Title</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-<div>Hello 4</div>
+<body class="center">
+<article id="artigo" class="flex mb-1">
+
+    <section class="flex section mb-1">
+
+        <h3 class="m-0 mt-1 ml-1 highlight-text t-1_4">Métricas e Estimativas para Projetos de Software</h3>
+
+        <p class="ml-1 block w-80"> Antes de abordar este tema, devemos definir o conceito de métricas de software.
+            Uma métrica é a adição de um atributo (propriedades ou características) de uma
+            determinada entidade (produto, processo ou recursos).
+        </p>
+
+        <strong class="m-0 ml-1 block">Exemplos:</strong>
+        <ul>
+            <li>Tamanho do produto de software (ex: Número de Linhas de Código - LOC);</li>
+            <li>Número de pessoas necessárias para preparar a especificação em UML de uma aplicação;</li>
+            <li>Número de defeitos encontrados no documento de requisitos do software;</li>
+        </ul>
+
+        <p class="ml-1 mb-1 block w-80">
+            Basicamente, métricas são o tamanho de cada coisa na implantação de um projeto de software.
+            Devemos ter essa noção para que, posteriormente, possa ser realizada a gerência de uma maneira
+            geral do projeto, englobando custos, tempo, relacionamento com o cliente, etc.
+        </p>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Propriedades de uma Métrica</h3>
+        <ul>
+            <li>Facilmente calculada, entendida e testada;</li>
+            <li>Passível de Estudos Estatísticos;</li>
+            <li>Expressa em alguma unidade (tempo, pessoas, $);</li>
+            <li>Obtida o mais cedo possível no ciclo de vida do software;</li>
+            <li>Passível de automação;</li>
+            <li>Repetível e independente do observador;</li>
+            <li>Comprometida com uma estratégia de melhoria.</li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Categorização das Métricas</h3>
+        <ul>
+            <li>Métricas diretas (fundamentais ou básicas);</li>
+            <li>Métricas indiretas (derivadas);</li>
+            <li>Métricas orientadas a tamanho;</li>
+            <li>Métricas orientadas por função;</li>
+            <li>Métricas de produtividade;</li>
+            <li>Métricas de qualidade;</li>
+            <li>Métricas técnicas;</li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Estimativas para Projetos de Software</h3>
+        <p>A estimativa de software trabalha basicamente em 4 frentes: </p>
+        <ol>
+            <li>Estimar o tamanho do produto;</li>
+            <li>Estimar o esforço;</li>
+            <li>Estimar o prazo;</li>
+            <li>Fornecer estimativas numa faixa permitida e refinar essa faixa à medida que o projeto progride;</li>
+        </ol>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Tipos de estimativas:</h3>
+        <ul>
+            <li><strong>Tamanho:</strong> Representa a quantidade de software que será produzida.<br>
+                <em><strong>Ex:</strong> número de linhas de código, número de requisitos funcionais, número de casos de
+                    uso;</em>
+            </li>
+            <li><strong>Esforço:</strong> Derivado da estimativa de tamanho.<br>
+                <em><strong>Ex:</strong> estimativa de tamanho x produtividade (qtde diagramas x temp gasto para 1
+                    analista preparar 1 diagrama =
+                    esforço (dias));</em>
+            </li>
+            <li><strong>Prazo:</strong> Baseado em datas requisitadas pelo cliente.<br>
+                <em><strong>Ex:</strong> Entrega em 30 dias.</em>
+            </li>
+            <li><strong>Qualidade:</strong> Medidas de resultados.<br>
+                <em><strong>Ex:</strong> defeitos por fase, esforço de mudanças.</em>
+            </li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Pontos por Caso de Uso</h3>
+        <p> Foi proposto em 1993 por Gustav Karner e foi baseado na Análise por Pontos de Função.
+            Basicamente, se trata de estimar o tamanho do sistema de acordo com o modo que usuários
+            o utilizarão, complexidade de ações requerida por cada tipo de usuário, uma análise em
+            alto nível dos passos necessários para a realização de cada tarefa.
+            Este método foi criado para que seja possível estimar o tamanho do sistema já na fase de
+            levantamento de Casos de Uso, e possuí os seguintes passos:</p>
+        <ul>
+            <li><strong>Passo 1</strong> - Cálculo do UAW (Unadjusted Actor Weight);</li>
+            <li><strong>Passo 2</strong> - Cálculo do UUCW (Unadjusted Use Case Weight);</li>
+            <li><strong>Passo 3</strong> - Cálculo do UUCP (Unadjusted Use Case Points);</li>
+            <li><strong>Passo 4</strong> - Cálculo do Tfator;</li>
+            <li><strong>Passo 5</strong> - Cálculo do TCF (Technical Complexity Factor);</li>
+            <li><strong>Passo 6</strong> - Cálculo do Efator;</li>
+            <li><strong>Passo 7</strong> - Cálculo do ECF (Environmental Complexity Factor);</li>
+            <li><strong>Passo 8</strong> - Cálculo dos UCP (Use Case Points);</li>
+            <li><strong>Passo 9</strong> - Cálculo por tempo de trabalho estimado.</li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Gerência de Custo</h3>
+        <p> Em um projeto de software, é fundamental o controle de gastos para colocar
+            em prática tudo aquilo que está no planejamento. Através da gerência de custos,
+            é possível determinar a quantidade de recursos que podem ser alocados às necessidades do projeto,
+            e essa gerência deve ser eficaz para não ocasionar desperdícios ao financiador.
+        </p>
+        <p> De acordo com o guia do PMBOK, existem 4 elementos necessários para o gerenciamento de custos de um projeto:
+            plano de gerenciamento de custos, estimativa de custos, determinação de orçamentos e controle de custos.
+        </p>
+        <p> As tarefas e estimar e controlar os custos são as que mais exigem esforço do gerente, pois em projetos de
+            software
+            as medições são complexas. Para executar os processos referentes a gerenciamento de custos, três itens são
+            necessários
+            e importantes: as entradas, as ferramentas, as técnicas e as saídas.
+        </p>
+        <p> O plano de gerenciamento de um projeto é um documento que contém as diretrizes iniciais, e considere todas
+            as áreas
+            de gerenciamento. Este documento é fundamental para ter um controle e clarear os objetivos a serem atingidos
+            durante o
+            ciclo de vida de um projeto de software.
+        </p>
+        <p>Vimos como é importante realizar a Gerência de Custo, pois, através dela é que é possível planejar e
+            organizar financeiramente um projeto de software, ocasionando uma otimização de tempo, redução de erros,
+            diminuição de custos operacionais, segurança de dados e também a integração entre as diferentes áreas do
+            projeto.
+        </p>
+    </section>
+
+    <section class="flex">
+
+        <h3 class="m-0 highlight-text t-1_4">Gerência de Tempo</h3>
+
+        <p>Além do Gerenciamento de Custo, num projeto de software é muito importante também realizar a Gerência de
+            Tempo. </p>
+
+        <p>A Gerência de Tempo é fundamental para o ciclo de vida do projeto, pois um projeto com a duração maior do que
+            o previsto pode ocasionar uma série de efeitos negativos, afetando os recursos humanos, financeiros e também
+            recursos de ferramentas.</p>
+
+        <p class="m-0"><strong>Por exemplo:</strong></p>
+        <ul>
+            <li><strong>Recursos humanos:</strong> Se o contrato da mão de obra acabar antes de o projeto ser
+                finalizado, temos então defasagem de recursos humanos;
+            </li>
+            <li><strong>Recursos financeiros:</strong> Um projeto atrasado irá precisar de mais investimentos para que
+                ele seja concluído o mais rápido possível;
+            </li>
+            <li><strong>Recursos tecnológicos:</strong> Há também a possibilidade de vencimento das licenças das
+                ferramentas de software, se os mesmos foram contratados para durarem somente durante o tempo estimado do
+                projeto.
+            </li>
+        </ul>
+
+        <p>Então, é de extrema importância a realização da Gerência de Tempo.</p>
+
+        <p>Cronogramas são amplamente utilizados para o gerenciamento de tempo de um projeto.</p>
+
+        <p>Através de um cronograma é possível determinar quando cada atividade deve ser iniciada e concluída.
+            Vale lembrar que o grande objetivo é garantir que as etapas do projeto sigam rigorosamente o cronograma,
+            para que as atividades sejam entregues no tempo previsto e assim manter a satisfação do cliente.
+        </p>
+
+        <p>Ao criar um cronograma, é necessário definir as atividades a serem realizadas, colocá-las em sequência, e
+            estimar recursos e durações das mesmas.
+        </p>
+
+        <p>Há também outros métodos utilizados para realizar a Gerência de Tempo de um projeto, como por exemplo:</p>
+        <ul>
+            <li>Gráfico de Gantt.</li>
+            <li>Rede Pert.</li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Método do Caminho Crítico</h3>
+        <p> Identifica a sequência de atividades que, caso atrase, todo o projeto estará atrasado.
+            Isso quer dizer que, todas as atividades não terão folga, e estarão acumuladas, até a data de finalização do
+            projeto.
+        </p>
+    </section>
+
+    <section class="flex">
+
+        <h3 class="m-0 highlight-text t-1_4">Gerência de Risco</h3>
+
+        <p>Nos projetos de software também há gerenciamento de riscos!</p>
+
+        <p>É extremamente importante entender que riscos fazem parte não só de um projeto de software, mas da vida.
+            Risco pode ser entendido como uma incerteza, uma oportunidade, uma ameaça ou um problema.
+        </p>
+
+        <p><strong class="t-1_2">Definição de risco:</strong> <em class="highlight-text">Uma incerteza identificável,
+            mensurável e relevante para o contexto
+            em que ocorre.</em>
+        </p>
+
+        <p>Segundo o PMBOK, o risco do projeto é um evento ou condição incerta que, se ocorrer, provocará um
+            efeito positivo ou negativo em um ou mais objetivos do projeto tais como escopo, cronograma, custo e
+            qualidade.
+        </p>
+
+        <p>A palavra “<em>Risco</em>” aparece um total de 222 vezes no guia PMBOK 2000.
+            A gerência de riscos nada mais é do que identificar esses possíveis riscos, incertezas ou possíveis
+            problemas de um projeto e tentar controlá-los, criando soluções para que esses erros não apareçam, e, caso
+            apareçam, que tenha alternativas ao mesmo.
+        </p>
+
+        <ul>
+            <li><strong>Ameaças (riscos negativos):</strong> pode ser entendido como algo que prejudique o
+                desenvolvimento do projeto, como: atraso, custo acima do planejado, baixo desempenho, dentre outros;
+            </li>
+            <li><strong>Oportunidades (riscos positivos):</strong> pode ser entendido como: custo baixo de produção,
+                acreditar em algo novo, busca por cativar novos clientes, antecipações no prazo de entrega, dentre
+                outros.
+            </li>
+        </ul>
+
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Tipos de Risco de Projetos de Software</h3>
+        <ul>
+            <li><strong>Riscos de Projeto:</strong>
+                <ul>
+                    <li>Impacta no plano do projeto, orçamento, cronograma, pessoal, recursos, interessados, requisitos;
+                    </li>
+                </ul>
+            </li>
+            <li><strong>Riscos Técnicos:</strong>
+                <ul>
+                    <li>Impacta na qualidade do produto, e identificados em fase de desenvolvimento e manutenção do
+                        mesmo;
+                    </li>
+                </ul>
+            </li>
+            <li><strong>Riscos de Negócio:</strong>
+                <ul>
+                    <li>Impacta na viabilidade do produto ser construído, e inclui risco de mercado, estratégico,
+                        vendas,
+                        gerencial e risco de
+                        orçamento.
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Análise de Riscos</h3>
+        <p> É importante fazer uma análise detalhada dos riscos e como eles impactam no projeto do software. Para isso,
+            é
+            utilizado escala
+            para determinar a probabilidade de um risco.</p>
+        <ul>
+            <li><strong>Muito Alto:</strong> <span class="highlight-text">&gt;= 0,70</span> - O Risco é eminente de
+                ocorrer;
+            </li>
+            <li><strong>Alto:</strong> <span class="highlight-text">&gt;= 0,50 - &lt; 0,70</span> - O Risco é eminente
+                de ocorrer;
+            </li>
+            <li><strong>Médio:</strong> <span class="highlight-text">&gt;= 0,30 - &lt; 0,50</span> - Provável de
+                ocorrer;
+            </li>
+            <li><strong>Baixo:</strong> <span class="highlight-text">&gt;= 0,10 - &lt; 0,30</span> - Pequena;</li>
+            <li><strong>Muito Baixo:</strong> <span class="highlight-text">&lt; 0,10</span> - Pequena.</li>
+        </ul>
+
+    </section>
+
+    <section class="flex">
+        <h3 class="m-0 highlight-text t-1_4">Estratégias de Ação</h3>
+        <p> Após a análise de riscos, é importante montar estratégias de ação, para poderem diminuir os efeitos
+            desses riscos em um projeto de software. </p>
+        <p>Há 2 tipos de estratégias:</p>
+        <ol>
+            <li><strong>Estratégias Reativas:</strong>
+                <ul>
+                    <li>Tem como objetivo “apagar incêndio”.</li>
+                    <li>Entra em ação quando o risco ocorre de fato.</li>
+                </ul>
+            </li>
+            <li><strong>Estratégias Pró-Ativas:</strong>
+                <ul>
+                    <li>Identificar riscos, classificação dos mesmos.</li>
+                    <li>Evitar riscos.</li>
+                    <li>Plano de contingência.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <p> Como dito no início deste tópico, riscos sempre estão aptos a ocorrer não só em projetos de software, mas na
+            vida.
+        </p>
+        <p>Também é importante fazer um estudo para discutir formas e evitá-los e, se de fato esses problemas
+            ocorrerem, é importante ter um plano para que esses problemas sejam solucionados o mais rápido possível e
+            não afetem o processo todo.
+        </p>
+    </section>
+
+</article>
 </body>
 </html>

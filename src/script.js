@@ -12,7 +12,7 @@ const title =       document.querySelector("#pageTitle");
 
 document.addEventListener("DOMContentLoaded", () => {
     loadMenu();
-    loadPage(4);
+    loadPage(3);
 });
 
 const loadMenu = () => {

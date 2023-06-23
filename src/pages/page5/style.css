@@ -123,7 +123,7 @@ ul {
 
 ul li::before {
     content: "\2022";
-    color: var(--page-highlight);;
+    color: var(--page-highlight);
     font-weight: bolder;
     font-size: 1.4rem;
     display: inline-block;
@@ -134,7 +134,6 @@ ul li::before {
 ol li::marker {
     color: var(--page-highlight);
 }
-
 
 .p{
     padding: .5rem;
