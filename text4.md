@@ -150,8 +150,8 @@ plano de gerenciamento de custos, estimativa de custos, determinação de orçam
 
      Há também outros métodos utilizados para realizar a Gerência de Tempo de um projeto, como por exemplo: 
 
- - # Gráfico de Gantt; 
- - # Rede Pert;
+ - Gráfico de Gantt; 
+ - Rede Pert;
 
 ### Método do Caminho Crítico
 
